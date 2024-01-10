@@ -1,4 +1,4 @@
-module github.com/kohkimakimoto/inertia-echo
+module github.com/satria-research/inertia-echo
 
 go 1.19
 

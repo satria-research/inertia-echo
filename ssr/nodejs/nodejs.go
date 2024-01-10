@@ -4,9 +4,10 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/kohkimakimoto/inertia-echo"
 	"net/http"
 	"strings"
+
+	"github.com/satria-research/inertia-echo"
 )
 
 type SsrEngine struct {
